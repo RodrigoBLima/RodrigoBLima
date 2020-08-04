@@ -1,7 +1,6 @@
 ### Olá, seja Bem vindo! Me chamo Rodrigo Barbosa 👋
 
- :rocket:  &nbsp; Estou trabalhando na **Agriconnected**
-
+ :rocket:  &nbsp; Atualmente trabalho na **Agriconnected**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e projetos Back-end usando Python
  <br/>  😄 &nbsp; Estou sempre em busca de aprender novas Tecnologias para melhor desempenho no mercado de trabalho
  <br/> :computer: &nbsp; Minha stack: Node.js, Python, Django,ReactJS, React Native & Typescript
