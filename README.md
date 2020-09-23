@@ -1,6 +1,6 @@
 
 ### Nice to meet you! My name is Rodrigo Barbosa 👋
-- 🏻‍💻 Full Stack Web Developer <br>
+- 💻 Full Stack Web Developer <br>
 - 📚 In constant learning <br>
 - 💻 Passionate about the world of technology <br>
 - 🎶 I can't live without music <br>
