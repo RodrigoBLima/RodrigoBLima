@@ -33,6 +33,11 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
                                                                                                                   
 <samp>
 
+<h2 align='left'>#Github Points: :octocat:🏆️</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=RodrigoBLima&theme=onedark&margin-w=7&hide_border=true" alt="RodrigoBLima points"/>
+</p>
+
 ### Follow me 💁🏻
 
 <p align="left">
