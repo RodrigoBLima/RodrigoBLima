@@ -35,7 +35,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 ### Github Points 🏆️
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=RodrigoBLima&theme=onedark&margin-w=7&hide_border=true" alt="RodrigoBLima points"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=RodrigoBLima&theme=tokyonight&margin-w=7&hide_border=true" alt="RodrigoBLima points"/>
 </p>
 
 ### Follow me 💁🏻
