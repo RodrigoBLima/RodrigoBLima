@@ -7,7 +7,7 @@
 - :computer: &nbsp; My stack: Node.js, Python, Django, ReactJS, React Native && Typescript <br>
 - 🎮 And somentimes I play video-game <br>
 - 🍕 Pizza is my religion <br>
-- 📍 São Paulo, SP <br>
+- 📍 Itaquaquecetuba, SP <br>
 
 
 ![Bitsssun github stats](https://github-readme-stats.vercel.app/api?username=RodrigoBLima&show_icons=true&theme=tokyonight)
@@ -33,7 +33,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
                                                                                                                   
 <samp>
 
-<h2 align='left'>#Github Points: :octocat:🏆️</h2>
+### Github Points 🏆️
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=RodrigoBLima&theme=onedark&margin-w=7&hide_border=true" alt="RodrigoBLima points"/>
 </p>
