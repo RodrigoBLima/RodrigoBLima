@@ -11,7 +11,7 @@
 
 
 ![Bitsssun github stats](https://github-readme-stats.vercel.app/api?username=RodrigoBLima&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBLima)](https://github.com/RodrigoBLima/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBLima&theme=tokyonight)](https://github.com/RodrigoBLima/github-readme-stats)
 
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img
