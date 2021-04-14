@@ -4,7 +4,7 @@
 - 📚 In constant learning <br>
 - 💻 Passionate about the world of technology <br>
 - 🎶 I can't live without music <br>
-- :computer: &nbsp; My stack: Node.js, Python, Django, ReactJS, React Native && Typescript <br>
+- :computer: &nbsp; My stack:  Python, Django, Javascript, Node JS, React JS, React Native && Typescript <br>
 - 🎮 And somentimes I play video-game <br>
 - 🍕 Pizza is my religion <br>
 - 📍 Itaquaquecetuba, SP <br>
