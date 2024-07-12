@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Barbosa Lima</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoblima&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoblima" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigoblima" alt="rodrigoblima" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bitsssun" target="blank"><img src="https://img.shields.io/twitter/follow/bitsssun?logo=twitter&style=for-the-badge" alt="bitsssun" /></a> </p>
-
-- 🌱 I’m currently learning **Nest JS, Node JS, Graphql, Clean Architecture, Clean Code**
+- 🌱 I’m currently learning **Nest JS, Node JS, Next JS, Clean Architecture, Clean Code**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RodrigoBLima](https://github.com/RodrigoBLima)
 
