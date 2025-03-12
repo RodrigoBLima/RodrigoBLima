@@ -13,10 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bitsssun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bitsssun" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rodrigoblima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigoblima" height="30" width="40" /></a>
 <a href="https://codesandbox.com/rodrigoblima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rodrigoblima" height="30" width="40" /></a>
-<a href="https://instagram.com/bitsssun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bitsssun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoblima&show_icons=true&locale=en&layout=compact" alt="rodrigoblima" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoblima&show_icons=true&locale=en" alt="rodrigoblima" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoblima&" alt="rodrigoblima" /></p>
